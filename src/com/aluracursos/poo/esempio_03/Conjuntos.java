@@ -18,5 +18,24 @@ public class Conjuntos {
         for(String s: conjunto){
             System.out.println(s);
         }
+
+        System.out.println("*************************************************");
+
+
+      Set<Numeros> numero = new HashSet<>();
+
+       numero.add(new Numeros("uno"));
+       numero.add(new Numeros("dos"));
+       numero.add(new Numeros("tres"));
+       numero.add(new Numeros("cuatro"));
+       numero.add(new Numeros("cuatro"));
+
+
+       for(Numeros n: numero ){
+
+           System.out.println(n.getNumero());
+       }
+
+
     }
 }
