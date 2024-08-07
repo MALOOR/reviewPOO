@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b84d11f-49af-45e3-9ef8-5df45fc0df6d" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/colecciones/esempio_01/Cola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/colecciones/esempio_01/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/esempio_03/Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/colecciones/esempioMap/MapHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/colecciones/esempioMap/MapLinkedHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/colecciones/esempioMap/MapTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/colecciones/esempio_02/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/colecciones/esempio_02/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/retoAgenda/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/retoAgenda/English01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/retoAgenda/Telefono.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/poo/esempio_03/Conjuntos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/poo/esempio_03/Conjuntos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +42,13 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Agenda.executor&quot;: &quot;Run&quot;,
     &quot;Application.Cola.executor&quot;: &quot;Run&quot;,
     &quot;Application.Conjuntos.executor&quot;: &quot;Run&quot;,
     &quot;Application.Listas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapHash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapLinkedHash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTree.executor&quot;: &quot;Run&quot;,
     &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
